@@ -194,7 +194,6 @@
 				62A45DBED1B44C687EA64730 /* Pods-JitsiMeetDemo-tvOSTests.debug.xcconfig */,
 				A810652FFAFCB610ED193D79 /* Pods-JitsiMeetDemo-tvOSTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
